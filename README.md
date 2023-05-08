@@ -1,6 +1,6 @@
-<h1 align="center">Skymarket</h1>
+<h1 align="center">Online_market</h1>
 
-Skymarket is a web application for creating and viewing ads.
+Online_market is a web application for creating and viewing ads.
 
 The backend was created using python (Django), the database - PostgreSQL,
 frontend - react (SkyPro was provided).
